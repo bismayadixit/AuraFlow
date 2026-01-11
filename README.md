@@ -4,7 +4,7 @@ A web-based interactive particle visualization that responds to real-time **hand
 This project combines **computer vision** and **3D graphics** to create an immersive, touch-free experience directly in the browser.
 
 ---
-<img src="https://i.postimg.cc/fLb47zdv/Screenshot-2026-01-11-112811.png" width="400"/>
+<img src="https://i.postimg.cc/fLb47zdv/Screenshot-2026-01-11-112811.png" width="70%"/>
 
 ## 🚀 Project Overview
 
@@ -54,5 +54,6 @@ The application runs completely on the **client side** and requires **no backend
 - **WebGL** – High-performance graphics rendering
 
 ---
+
 
 
